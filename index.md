@@ -1,4 +1,4 @@
-# Oddziaływania promieniowania jonizującego z materią
+# Oddziaływanie promieniowania jonizującego z materią
 
 ## WYKŁADY
 
