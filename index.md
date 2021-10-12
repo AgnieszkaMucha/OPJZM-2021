@@ -8,7 +8,7 @@
 - Formuła Bethego  [slajdy](/FILES/opjzm_w3.pdf)
 - 
 ## ĆWICZENIA
-- Zbiór zadań  [zadania](/FILES/zadania.pdf)
+- Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
 ## LABORATORIUM
 
 ## LITERATURA
