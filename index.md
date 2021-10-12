@@ -10,3 +10,8 @@
 ## ĆWICZENIA
 - Zbiór zadań  [zadania](/FILES/zadania.pdf)
 ## LABORATORIUM
+
+## LITERATURA
+- Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
+- G. F. Knoll, „Radiation Detection and Measurement”, Wiley, 2010
+- C. Leroy, P-G. Rancoita "Principles of Radiation Interaction in Matter and Detection" World Scientific Publishing, 4th Ed. 2016
