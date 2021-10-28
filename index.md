@@ -7,6 +7,7 @@
 - Cząstki i oddziaływnia [slajdy](/FILES/opjzm_w1.pdf)
 - Formuła Bethego  [slajdy](/FILES/opjzm_w2.pdf)
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3.pdf)
+- Elektrony i fotony [slajdy](/FILES/opjzm_w4.pdf)
 - 
 ## ĆWICZENIA 
 - Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
@@ -15,7 +16,8 @@
 - Symulacje przejścia promieniowania przez materię (21.10 D10/207) 
 
 ## PROJEKT
-1. Wyznaczenie strat energii czątek przechodzących przez ośrodek w zależności od rodzaju i energii czątek 
+1. Wyznaczenie strat energii czątek przechodzących przez ośrodek w zależności od rodzaju i energii cząstek 
+2. 
 
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
