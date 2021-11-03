@@ -9,7 +9,7 @@
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3.pdf)
 - Elektrony i fotony [slajdy](/FILES/opjzm_w4.pdf)
 - Zadania dla detektorów [slajdy](/FILES/opjzm_w5.pdf)
-- Rodzaje detektorów [slajdy](/FILES/opjzm_w5.pdf)
+- Rodzaje detektorów [slajdy](/FILES/opjzm_w6.pdf)
 ## ĆWICZENIA 
 - Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
 - 
