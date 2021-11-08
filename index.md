@@ -14,7 +14,9 @@
 - Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
 - 
 ## LABORATORIUM  
-- Symulacje przejścia promieniowania przez materię (21.10 D10/207) 
+# Symulacje przejścia promieniowania przez materię (10.11 D10/207) 
+- Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
+- Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasięg.pdf)
 
 ## PROJEKT
 1. Wyznaczenie strat energii czątek przechodzących przez ośrodek w zależności od rodzaju i energii cząstek 
