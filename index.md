@@ -22,8 +22,8 @@
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
 
 ## PROJEKT
-1. Wyznaczenie strat energii czątek przechodzących przez ośrodek w zależności od rodzaju i energii cząstek 
-2. 
+1. Model do naświetlania protonami elementów elektronicznych 
+
 
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
