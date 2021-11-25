@@ -12,7 +12,7 @@
 - Rodzaje detektorów [slajdy](/FILES/opjzm_w6.pdf)
 - Charakterystyki detektórów [slajdy](/FILES/opjzm_w7.pdf)
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
-- 
+
 ## ĆWICZENIA 
 - Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
 - 
