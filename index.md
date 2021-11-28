@@ -18,6 +18,7 @@
 - 
 ## LABORATORIUM  
 #### Symulacje przejścia promieniowania przez materię 
+Instrukcja do wykonania symulacji programem FLUKA jest [tutaj:](https://agnieszkamucha.github.io/OPJzM/)
 - Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
 
