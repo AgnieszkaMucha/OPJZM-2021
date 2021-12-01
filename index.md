@@ -18,11 +18,15 @@
 
 ## LABORATORIUM  
 #### Symulacje przejścia promieniowania przez materię 
-Instrukcja do wykonania symulacji programem FLUKA jest [tutaj:](https://agnieszkamucha.github.io/OPJzM/) <br>
-Opis funkcjonalności Flair ze strony FLUKA@ CERN: [Flair](/FILES/03_Introduction_to_Flair_and_basic_input_2021_online.pdf) <br>
-Jakie wyniki pokazuje symulacja FLUKA@ CERN: [Scoring](/FILES/08_Scoring_I_2021_online.pdf)
+Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszkamucha.github.io/OPJzM/) <br>
 - Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
+
+Instrukcje z kursu FLUKA@ CERN:
+- Opis funkcjonalności Flair [Flair](/FILES/03_Introduction_to_Flair_and_basic_input_2021_online.pdf) 
+- Geometria [opis](/FILES/04_Geometry_Basic_2021_online.pdf)
+- Jakie wyniki pokazuje symulacja [Scoring](/FILES/08_Scoring_I_2021_online.pdf)
+
 
 ## PROJEKT
 1. Model do naświetlania protonami elementów elektronicznych 
