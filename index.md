@@ -1,11 +1,10 @@
 ### AGH UST Kraków
 ### Wydział Fizyki i Informatyki Stosowanej
-# Oddziaływanie promieniowania jonizującego z materią
+# Oddziaływanie promieniowania jonizującego z materią 2022
 
 ## WYKŁADY
 - Dyskusja o stratach energii [slajdy](/FILES/opjzm_w1.pdf)
-- Cząstki i oddziaływnia [slajdy](/FILES/opjzm_w1.pdf)
-- Formuła Bethego  [slajdy](/FILES/opjzm_w2.pdf)
+- Formuła Bethego  [slajdy](/FILES/opjzm_w2_2022.pdf)
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3.pdf)
 - Elektrony i fotony [slajdy](/FILES/opjzm_w4.pdf)
 - Zadania dla detektorów [slajdy](/FILES/opjzm_w5.pdf)
