@@ -13,7 +13,7 @@
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
 
 ## ĆWICZENIA 
-- Zbiór zadań  [zadania](/FILES/problemy_2021.pdf)
+- Zestaw 1  [zadania 1 ](/FILES/problemy_2022_1.pdf)
 
 ## LABORATORIUM  
 #### Symulacje przejścia promieniowania przez materię 
