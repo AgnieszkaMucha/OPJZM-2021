@@ -6,7 +6,7 @@
 - Dyskusja o stratach energii [slajdy](/FILES/opjzm_w1.pdf)
 - Formuła Bethego  [slajdy](/FILES/opjzm_w2_2022.pdf)
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3_2022.pdf)
-- Elektrony i fotony [slajdy](/FILES/opjzm_w4.pdf)
+- Elektrony i fotony [slajdy](/FILES/opjzm_w4_2022.pdf)
 - Zadania dla detektorów [slajdy](/FILES/opjzm_w5.pdf)
 - Rodzaje detektorów [slajdy](/FILES/opjzm_w6.pdf)
 - Charakterystyki detektórów [slajdy](/FILES/opjzm_w7.pdf)
