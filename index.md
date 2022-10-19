@@ -9,7 +9,7 @@
 - Elektrony i fotony [slajdy](/FILES/opjzm_w4_2022.pdf)
 - Zadania dla detektorów [slajdy](/FILES/opjzm_w5.pdf)
 - Rodzaje detektorów [slajdy](/FILES/opjzm_w6.pdf)
-- Charakterystyki detektórów [slajdy](/FILES/opjzm_w7.pdf)
+- Charakterystyki detektorów [slajdy](/FILES/opjzm_w7.pdf)
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
 
 ## ĆWICZENIA 
