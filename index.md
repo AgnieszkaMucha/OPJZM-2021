@@ -15,6 +15,10 @@
 - Zestaw 1  [zadania 1 ](/FILES/problemy_2022_1.pdf)
 
 ## LABORATORIUM  
+
+#### Rekonstrukcja śladu w detektorze krzemowym LHCb
+Opis ćwiczenia jest [tutaj](/FILES/velo_opis_2022.pdf)
+
 #### Symulacje przejścia promieniowania przez materię 
 Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszkamucha.github.io/OPJzM/) <br>
 - Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
