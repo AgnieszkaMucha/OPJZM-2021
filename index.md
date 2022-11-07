@@ -19,12 +19,14 @@
 #### Rekonstrukcja śladu w detektorze krzemowym LHCb
 Opis ćwiczenia jest [tutaj](/FILES/velo_opis_2022.pdf)
 
+## PROJEKT
+
 #### Symulacje przejścia promieniowania przez materię 
 Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszkamucha.github.io/OPJzM/) <br>
 - Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
-- 
-## PROJEKT
+
+
 Instrukcje z kursu FLUKA@ CERN:
 - Opis funkcjonalności Flair [Flair](/FILES/03_Introduction_to_Flair_and_basic_input_2021_online.pdf) 
 - Geometria [opis](/FILES/04_Geometry_Basic_2021_online.pdf)
