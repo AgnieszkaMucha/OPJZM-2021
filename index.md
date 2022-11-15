@@ -33,7 +33,8 @@ Instrukcje z kursu FLUKA@ CERN:
 - Jakie wyniki pokazuje symulacja [Scoring](/FILES/08_Scoring_I_2021_online.pdf)
 
 
-
+## Egzamin
+- pytania 
 
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
