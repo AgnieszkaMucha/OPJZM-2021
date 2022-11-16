@@ -17,7 +17,7 @@
 ## LABORATORIUM  
 
 #### Rekonstrukcja śladu w detektorze krzemowym LHCb
-Opis ćwiczenia jest [tutaj](/FILES/velo_opis_2022.pdf)
+Opis ćwiczenia jest [tutaj](/FILES/velo_opis_2022.pdf) <br>
 Jak skofigurowac środowisko do pracy na lokalnym komputerze? Instrukcja jest [tutaj](https://agile.fis.agh.edu.pl/confluence/pages/viewpage.action?pageId=28837229)
 
 ## PROJEKT
