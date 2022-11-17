@@ -35,7 +35,7 @@ Instrukcje z kursu FLUKA@ CERN:
 
 
 ## Egzamin
-- pytania 
+- zagadnienia do egzaminu zobacz [tutaj](/FILES/Pytania-egzamin_2022.pdf)
 
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
