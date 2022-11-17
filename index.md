@@ -8,7 +8,7 @@
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3_2022.pdf)
 - Elektrony i fotony [slajdy](/FILES/opjzm_w4_2022.pdf)
 - Detektory czułe na JSE [slajdy](/FILES/opjzm_w5.pdf)
-- Charakterystyki detektorów [slajdy](/FILES/opjzm_w7.pdf)
+- Charakterystyki detektorów [slajdy](/FILES/opjzm_w7_2022.pdf)
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
 
 ## ĆWICZENIA 
