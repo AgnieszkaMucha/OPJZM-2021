@@ -23,7 +23,7 @@ Jak skonfigurowac środowisko do pracy na lokalnym komputerze? Instrukcja jest [
 ## PROJEKT
 
 #### Symulacje przejścia promieniowania przez materię 
-Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszkamucha.github.io/OPJzM_2021/) <br>
+Instrukcja do wykonania symulacji programem FLUKA jest [tutaj][(https://agnieszkamucha.github.io/OPJzM_2021/Start.html)] <br>
 - Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
 
