@@ -32,7 +32,7 @@ Instrukcje z kursu FLUKA@ CERN:
 - Opis funkcjonalności Flair [Flair](https://indico.cern.ch/event/1123370/contributions/4715936/attachments/2444332/4188628/03_Introduction_to_Flair_and_basic_input_2022_ULB.pdf) 
 - Opis fizyki i metod symulacji stosowanych w programie FLuka [metody symulacji](https://indico.cern.ch/event/1123370/contributions/4715934/attachments/2444331/4188477/02_Monte_Carlo_Basics_2022_ULB.pdf)
 - Geometria [opis](/FILES/04_Geometry_Basic_2021_online.pdf)
-- Jakie wyniki pokazuje symulacja [Scoring](/FILES/08_Scoring_I_2021_online.pdf)
+- Jakie wyniki pokazuje symulacja [Scoring](https://indico.cern.ch/event/1123370/contributions/4716010/attachments/2445267/4189942/07_Scoring_I_2022_ULB.pdf)
 
 
 ## Egzamin
