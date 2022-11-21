@@ -28,7 +28,7 @@ Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszka
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
 
 
-Instrukcje z kursu FLUKA@ CERN w roku 2022 [kurs](https://indico.cern.ch/event/1123370/timetable/#20220517):
+Instrukcje z kursu FLUKA@ CERN w roku 2022 [strona kursu](https://indico.cern.ch/event/1123370/timetable/#20220517):
 - Opis funkcjonalności Flair [Flair](https://indico.cern.ch/event/1123370/contributions/4715936/attachments/2444332/4188628/03_Introduction_to_Flair_and_basic_input_2022_ULB.pdf) 
 - Opis fizyki i metod symulacji stosowanych w programie FLuka [metody symulacji](https://indico.cern.ch/event/1123370/contributions/4715934/attachments/2444331/4188477/02_Monte_Carlo_Basics_2022_ULB.pdf)
 - Geometria [opis](/FILES/04_Geometry_Basic_2021_online.pdf)
