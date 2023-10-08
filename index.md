@@ -12,7 +12,7 @@
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
 
 ## ĆWICZENIA 
-- Zestaw 1  [zadania 1 ](/FILES/problemy_2022_1.pdf)
+- Zestaw zadań  [zadania](/FILES/problemy_2023.pdf)
 
 ## LABORATORIUM  
 
