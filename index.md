@@ -4,7 +4,7 @@
 
 ## WYKŁADY
 - Dyskusja o stratach energii [slajdy](/FILES/opjzm_w1.pdf)
-- Formuła Bethego  [slajdy](/FILES/opjzm_w2_2022.pdf)
+- Formuła Bethego  [slajdy](/FILES/opjzm_w2.pdf)
 - Straty energii - dyskusje [slajdy](/FILES/opjzm_w3_2022.pdf)
 - Elektrony i fotony [slajdy](/FILES/opjzm_w4_2022.pdf)
 - Detektory czułe na JSE [slajdy](/FILES/opjzm_w5.pdf)
