@@ -37,7 +37,7 @@ Instrukcje z kursu FLUKA@ CERN w roku 2022 [strona kursu](https://indico.cern.ch
 
 ## Egzamin
 - zagadnienia do egzaminu zobacz [tutaj](/FILES/Pytania-egzamin_2022.pdf)
-- termin: 16 grudnia 2022 o godz. 13, sala 123 D10
+- termin: 
 
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
