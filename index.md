@@ -19,7 +19,9 @@
 
 #### Symulacje przejścia promieniowania przez materię 
 Instrukcja do wykonania symulacji programem FLUKA jest [tutaj](https://agnieszkamucha.github.io/OPJzM_FLUKA/Start.html) <br>
-- Symulacje w HEP - [wprowadzenie](/FILES/Simulation_intro.pdf)
+- Wprowadzenie do programu FLUKA [wprowadzenie](/FILES/01_Introduction_to_FLUKA_2021_online.pdf)
+- Symulacje metodami Monte Carlo [wprowadzenie](/FILES/01_Introduction_to_Monte_Carlo_2021_online.pdf)
+- Symulacje dla HEP - [wprowadzenie](/FILES/Simulation_intro.pdf) 
 - Wyznaczanie zasięgu protonów [opis](/FILES/opjzm_lab_zasieg.pdf)  
 
 Instrukcje z kursu FLUKA@ CERN w roku 2022 [strona kursu](https://indico.cern.ch/event/1123370/timetable/#20220517):
