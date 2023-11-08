@@ -47,4 +47,5 @@ Jak skonfigurowac środowisko do pracy na lokalnym komputerze? Instrukcja jest [
 ## LITERATURA
 - Claus Grupen, Boris Shwartz "Particle Detectors" Cambridge University Press, 2008
 - G. F. Knoll, „Radiation Detection and Measurement”, Wiley, 2010
+- William R. Leo Techniques for Nuclear and Particle Physics Experiments, 2nd Edition 1993,  Springer-Verlag Berlin Heidelberg GmbH
 - C. Leroy, P-G. Rancoita "Principles of Radiation Interaction in Matter and Detection" World Scientific Publishing, 4th Ed. 2016
