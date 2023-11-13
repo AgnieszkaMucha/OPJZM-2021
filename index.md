@@ -31,7 +31,7 @@ Instrukcje z kursu FLUKA@ CERN w roku 2022 [strona kursu](https://indico.cern.ch
 ## PROJEKT 
 
 #### Rekonstrukcja śladu w detektorze krzemowym LHCb
-Opis ćwiczenia jest [tutaj](/FILES/velo_opis_2022.pdf) <br>
+Opis ćwiczenia jest [tutaj](/FILES/velo_opis.pdf) <br>
 Jak skonfigurowac środowisko do pracy na lokalnym komputerze? Instrukcja jest [tutaj](https://agile.fis.agh.edu.pl/confluence/pages/viewpage.action?pageId=28837229)
 
 
