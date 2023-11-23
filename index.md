@@ -10,7 +10,7 @@
 - Detektory czułe na JSE [slajdy](/FILES/opjzm_w5.pdf)
 - Kalorymetry [slajdy](/FILES/opjzm_w8.pdf)
 - Charakterystyki detektorów [slajdy](/FILES/opjzm_w7_2022.pdf)
-- Neutrony (wykład studenów) [slajdy](FILES/neutrony_studenci.pdf)
+- Neutrony (wykład studenów) [slajdy](/FILES/neutrony_studenci.pdf)
 
 
 ## ĆWICZENIA 
